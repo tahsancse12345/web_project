@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 1;
+
+}
+img{
+	max-width: 100%;
+}
+
+
+.navbar-brand img{
+	width: 150px;
+}
+header{
+	background-color: #20b17014;
+}
+
+.col-xl-3 img{
+	width: 120px;
+	margin: auto;
+	display: block;
+}
+.col-xl-3{
+	margin: auto;
+	
+}
+
+.footer-section .col-xl-3 h1{
+	    margin-left: 25px;
+}
+.footer-section .col-xl-3 h1:hover{
+	color: gray;
+}
+
+.footer-section .col-xl-3 ul li{
+	list-style: none;
+}
+.footer-section .col-xl-3 ul li a{
+	    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+    line-height: 2px;
+    text-transform: capitalize;
+}
+.footer-section .col-xl-3 ul li a:hover{
+	color: gray;
+}
+.img-custom {
+	height: 160px;
+	width: auto;
+	    margin: 130px;
+}
+.img-fluid{
+	padding: 10px;
+}
+.navbar-nav{
+	margin-left: auto;
+}
+.container h3{
+	text-align: center;
+}
+.banner-section .card-body h4{
+	text-align: center;
+	font-size: 18px;
+}
+.col-xl-8 h2{
+	    margin-bottom: 100px;
+    text-align: center;
+}
+.col-xl-6 h5{
+	    font-size: 15px;
+    color: #e42121c2;
+}
+.col-xl-6 h1{
+	    font-size: 50px;
+    width: 400px;
+}
+.col-xl-6 p{
+	    font-size: 14px;
+    line-height: 30px;
+}
+span{
+	    color: green;
+}
+.col-xl-6 a{
+	background-color: green;
+
+
+}
+.col-xl-6 a:hover{
+	color: white;
+	background-color: black;
+}
+.col-xl-6 a{
+	text-transform: uppercase;
+	color: black;
+}
+
+.img-section .col-xl-4 a:hover{
+	color: white;
+	background-color: black;
+}
+.img-section .col-xl-4 a {
+	background-color: green;
+}
+.banner-section .card{
+	background-color: #20b17014;
+}
+.banner-section .card-body h3{
+
+}
+.banner-section .card-body h4{
+
+}
+.font-awesome{
+	list-style: none;
+	display: flex;
+	margin-top: 25px;
+	padding-left: 0px;
+}
+.font-awesome li{
+	font-size: 14px;
+	width: 50%;
+	
+}
+.font-awesome i{
+	margin-right: 10px;
+}
+.text-align{
+	padding-left: 0px;
+}
+.habijabi{
+	text-align: right;
+}
